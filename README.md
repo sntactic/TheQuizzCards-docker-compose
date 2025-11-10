@@ -32,7 +32,7 @@ L’objectif du projet est d’offrir une expérience ludique et éducative, tou
 🐳 Déploiement — Docker / Docker Compose
 * Conteneurisation du front, du back et de la base de données
 * Communication entre services via Docker network
-* Variables d’environnement sécurisées (Mongo URI)
+* Variables d’environnement sécurisées
 * Un seul déploiement via :  docker compose up -d
 * Et aller sur http://localhost 
 
