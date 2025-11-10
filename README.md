@@ -1,6 +1,6 @@
 # TheQuizzCards-docker-compose
 🧠 QuizzCards — Plateforme de création et partage de cartes de quiz culture générale
-Une application web complète pour créer, partager et explorer des cartes de quiz de culture générale. Développée avec Angular, Spring Boot, MongoDB, et Spring Security (JWT + OAuth2 Google).
+Une application web complète pour créer, partager et explorer des cartes de quiz de culture générale. Développée avec Angular, Spring Boot, MongoDB, Spring Security (JWT + OAuth2 Google) et Spring AI.
 
 🚀 Aperçu du projet
 QuizzCards est une plateforme interactive où les utilisateurs peuvent :
