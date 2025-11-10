@@ -23,7 +23,7 @@ L’objectif du projet est d’offrir une expérience ludique et éducative, tou
 ⚙️ Backend principal — Spring Boot
 * Framework : Spring Boot 3+
 * Sécurité : Spring Security (Basic Auth + JWT + OAuth2 Google)
-* Base de données : MongoDB (hébergée sur MongoDB Atlas)
+* Base de données : MongoDB 
 * CRUD complet pour les cartes et utilisateurs
 * Gestion des rôles (USER / ADMIN)
 * API RESTful bien structurée (architecture en couches)
@@ -33,7 +33,7 @@ L’objectif du projet est d’offrir une expérience ludique et éducative, tou
 * Conteneurisation du front, du back et de la base de données
 * Communication entre services via Docker network
 * Variables d’environnement sécurisées (Mongo URI)
-* Un seul déploiement via :                                            docker compose up -d
+* Un seul déploiement via :  docker compose up -d
 * Et aller sur http://localhost 
 
 🔐 Authentification et rôles
