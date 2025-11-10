@@ -13,7 +13,7 @@ QuizzCards est une plateforme interactive où les utilisateurs peuvent :
 L’objectif du projet est d’offrir une expérience ludique et éducative, tout en expérimentant une architecture logicielle complète (front + back + sécurité + microservice IA).
 
 🧩 Stack technique
-🎨 Frontend — Angular
+🎨 Frontend — Angular / servie par Nginx
 * Framework : Angular 17
 * Authentification JWT + OAuth2 (Google)
 * Gestion des rôles (utilisateur / admin)
