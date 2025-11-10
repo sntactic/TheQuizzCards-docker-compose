@@ -15,9 +15,8 @@ L’objectif du projet est d’offrir une expérience ludique et éducative, tou
 🧩 Stack technique
 🎨 Frontend — Angular / servie par Nginx
 * Framework : Angular 17
-* Authentification JWT + OAuth2 (Google)
 * Gestion des rôles (utilisateur / admin)
-* UI responsive et dynamique
+* UI responsive et dynamique grace à Angular-Material et talwind css
 * Communication avec l’API Spring Boot via HttpClient
 
 ⚙️ Backend principal — Spring Boot
