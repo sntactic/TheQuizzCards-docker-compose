@@ -31,7 +31,7 @@ services:
       - database
     environment:
       - SPRING_PROFILES_ACTIVE=prod
-      - IP_HOST : localhost
+      - IP_HOST = localhost
     restart: unless-stopped
 
 networks:
